@@ -1,0 +1,6 @@
+POST https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/users
+POST https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/tasks
+GET https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/tasks?bubble_user_id=eq.[uniqueID]
+PATCH https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/tasks?id=eq.[taskid]
+PATCH https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/tasks?id=eq.[tasksforID]
+GET https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/users?id=eq.[userID]
