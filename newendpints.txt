@@ -1,0 +1,4 @@
+Get https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/quotes?select=*
+
+Updated
+Post https://dhpentsjhcaiyhkdltgh.supabase.co/rest/v1/tasks
